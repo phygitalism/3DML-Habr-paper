@@ -1,4 +1,5 @@
 # Введение в 3D machine learning
+![](https://miro.medium.com/max/1400/1*dz0fqQ1KBqIYGexQ_I4SpA.jpeg)
 ## Содержание
 В репозитории содержится код с примерами для заметок по 3D ML на хабр.
 
