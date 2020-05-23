@@ -1,7 +1,7 @@
 # Введение в 3D machine learning
 ![](https://miro.medium.com/max/1400/1*dz0fqQ1KBqIYGexQ_I4SpA.jpeg)
 ## Содержание
-В репозитории содержится код с примерами для заметок по 3D ML на хабр.
+В репозитории содержится код с примерами для заметок по 3D ML на [хабр](https://habr.com/ru/company/itmai/blog/503358/).
 
 1) В ноутбуке `3dml_habr_phygitalism.ipynb` содержатся примеры коды для частей 1, 2.
 
