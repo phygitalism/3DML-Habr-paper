@@ -14,6 +14,9 @@
    * В ноутбуке `3dml_habr_phygitalism_part_2.ipynb` содержатся примеры коды для [части 2](https://habr.com/ru/company/itmai/blog/504416/).
 
    * Необходимые для работы с кодом модели `bunny.obj`, `mesh_source.obj`,  `mesh_target.obj` содержатся в папке `data`.
+
+3) 
+   * Примеры для [части 3](https://habr.com/ru/company/itmai/blog/516404/) содержатся в репозиториях упомянутых в заметке проектов. 
 ___
 ## Работа с кодом
 
